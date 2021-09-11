@@ -24,7 +24,7 @@
 
 <!-- goodbye message -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
+Visitors : [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
     
 <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
