@@ -20,11 +20,11 @@
 <a href="https://www.linkedin.com/in/bujar-alimadhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>  <a href="https://codepen.io/alimadhibujar" target="blank"><img  color="red" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" /></a>
 
 <!-- tol to show visitors in github -->
-![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
+Visitors : ![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
 
 <!-- goodbye message -->
 
-Visitors : [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
     
 <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
