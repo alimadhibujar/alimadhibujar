@@ -30,6 +30,7 @@ Here are some ideas to get you started:
     </p>
 
 <!-- list of social links -->
+- 📫 How to reach me: https://alimadhibujar.github.io/Projekt-Portofolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
