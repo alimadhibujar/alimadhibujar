@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- tol to wrighte welcome svg message -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=Hello+there%2C+I'm+Bujar+Alimadhi+!;An+Frontend+Web+Developer+!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
     </p>
 
 <!-- list of social links -->
-- 📫 How to reach me: https://alimadhibujar.github.io/Projekt-Portofolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
