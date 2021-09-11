@@ -21,7 +21,10 @@
 
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors:</h3>
+<p align="left">
 ![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
+     </p>
+  
 
 <!-- goodbye message -->
 
