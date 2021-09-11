@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/bujar-alimadhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" title="Linkedin"/></a>  <a href="https://codepen.io/alimadhibujar" target="blank"><img  color="red" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" title="Codepen" /></a>
+<a  href="https://www.linkedin.com/in/bujar-alimadhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" title="Linkedin"/></a>  <a href="https://codepen.io/alimadhibujar" target="blank"><img  color="red" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" title="Codepen" /></a>
 
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors:</h3>    
