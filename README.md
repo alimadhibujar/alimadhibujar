@@ -1,5 +1,5 @@
 <!-- tol to wrighte welcome svg message -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=Hello+there%2C+I'm+Bujar+Alimadhi+!;An+Frontend+Web+Developer+!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&width=450&height=30&lines=Hello+there%2C+I'm+Bujar+Alimadhi+!;An+Frontend+Web+Developer+!;Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
 <div ><img src="https://github.com/alimadhibujar/Link-Academy-responsiv-/blob/master/img/bgvideo.gif?raw=true" align="left"/></div>
 
 <!-- skills -->
@@ -10,8 +10,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://git-scm.com/docs/gittutorial" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png" alt="Git" width="60" height="50"/></a>   
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png" alt="Git" width="60" height="50"/></a>   
     </p>
 
 <!-- list of social links -->
@@ -19,7 +19,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-<a  href="https://www.linkedin.com/in/bujar-alimadhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/linkedin.svg" alt="" height="30" width="40" title="Linkedin"/></a>  <a href="https://codepen.io/alimadhibujar" target="blank"><img  color="red" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/codepen.svg" alt="" height="30" width="40" title="Codepen"/></a>
+<a  href="https://www.linkedin.com/in/bujar-alimadhi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/linkedin.svg" alt="" height="30" width="40" title="Linkedin"/></a>  <a href="https://codepen.io/alimadhibujar" target="_blank"><img  color="red" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/codepen.svg" alt="" height="30" width="40" title="Codepen"/></a>
      </div>
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors:</h3>    
