@@ -23,7 +23,7 @@
  
  <!-- goodbye message -->
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?align="left"size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
 
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors:</h3>    
