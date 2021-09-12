@@ -19,8 +19,9 @@
 
 <h3 align="center">Connect with me &nbsp; :</h3>
 <div align="center">
+<a  href="https://www.linkedin.com/in/bujar-alimadhi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/linkedin.svg" alt=""  width="40" title="Linkedin"/></a> &nbsp;
 <a href="https://alimadhibujar.github.io/Projekt-Portofolio/"  target="_blank" title="My Portfolio"><img align="center" src="https://www.freeiconspng.com/uploads/site-internet-icon-25.png" width="40"  alt="My Portfolio" /></a> &nbsp;
-<a  href="https://www.linkedin.com/in/bujar-alimadhi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/linkedin.svg" alt=""  width="40" title="Linkedin"/></a> &nbsp; <a href="https://codepen.io/alimadhibujar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/codepen.svg" alt=""  width="40" title="Codepen"/></a>
+<a href="https://codepen.io/alimadhibujar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/codepen.svg" alt=""  width="40" title="Codepen"/></a>
      </div>
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors &nbsp; :</h3>    
