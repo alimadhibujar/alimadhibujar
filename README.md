@@ -1,10 +1,11 @@
 <!-- tol to wrighte welcome svg message -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=Hello+there%2C+I'm+Bujar+Alimadhi+!;An+Frontend+Web+Developer+!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<div><img src="https://github.com/alimadhibujar/Link-Academy-responsiv-/blob/master/img/bgvideo.gif?raw=true" align="left"/></div>
 
 <!-- skills -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="right">Languages and Tools:</h3>
+<p align="right">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -14,23 +15,22 @@
 
 <!-- list of social links -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<div align="right">
 
 <a  href="https://www.linkedin.com/in/bujar-alimadhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" title="Linkedin"/></a>  <a href="https://codepen.io/alimadhibujar" target="blank"><img  color="red" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" title="Codepen"/></a>
+     </div>
+ 
+ <!-- goodbye message -->
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
 
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors:</h3>    
     
 ![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
     
-  
-
-<!-- goodbye message -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Thanks+for+visiting+me!+See+you+again!)](https://git.io/typing-svg)
-    
-<!--
+  <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
