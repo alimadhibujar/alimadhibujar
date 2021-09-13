@@ -22,13 +22,17 @@
 <a  href="https://www.linkedin.com/in/bujar-alimadhi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/linkedin.svg" alt=""  width="40" title="Linkedin"/></a> &nbsp;
 <a href="https://alimadhibujar.github.io/Projekt-Portofolio/"  target="_blank" title="My Portfolio"><img align="center" src="https://www.freeiconspng.com/uploads/site-internet-icon-png-31.png" width="40"  alt="My Portfolio" /></a> &nbsp;
 <a href="https://codepen.io/alimadhibujar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/codepen.svg" alt=""  width="40" title="Codepen"/></a>
-     </div>
+</div>
+
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors &nbsp; :</h3>    
     
 ![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimadhibujar&repo=github-readme-stats)](https://github.com/alimadhibujar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimadhibujar)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/alimadhibujar/github-readme-stats)
+
+
 
     
   <!--
