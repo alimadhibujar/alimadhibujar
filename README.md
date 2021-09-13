@@ -27,6 +27,9 @@
 <h3 align="left">Visitors &nbsp; :</h3>    
     
 ![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimadhibujar&repo=github-readme-stats)](https://github.com/alimadhibujar/github-readme-stats)
+
     
   <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
