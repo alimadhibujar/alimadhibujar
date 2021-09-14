@@ -28,7 +28,7 @@
 <h3 align="left">Visitors &nbsp; :</h3>    
     
 ![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimadhibujar&show_icons=true&theme=gotham&count_private=true)
 
 
 
@@ -36,7 +36,7 @@
     
   <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimadhibujar&show_icons=true&theme=gotham&count_private=true)
+
 
 Here are some ideas to get you started:
 
