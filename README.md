@@ -4,8 +4,8 @@
 
 <!-- skills -->
 
-<h3 align="center">Languages and Tools &nbsp; :</h3>
-<p align="center">
+<h3 align="left">Languages and Tools &nbsp; :</h3>
+<p align="left">
 <a target="_blank" href="https://www.w3schools.com/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50"/> </a> &nbsp;
 <a target="_blank" href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50"/></a> &nbsp;
 <a target="_blank" href="https://sass-lang.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;
@@ -17,8 +17,8 @@
 
 <!-- list of social links -->
 
-<h3 align="center">Connect with me &nbsp; :</h3>
-<div align="center">
+<h3 align="left">Connect with me &nbsp; :</h3>
+<div align="left">
 <a target="_blank" href="https://www.linkedin.com/in/bujar-alimadhi/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt=""  width="40" title="Linkedin"/></a> &nbsp;
 <a target="_blank" href="https://alimadhibujar.github.io/Projekt-Portofolio/" title="My Portfolio"><img align="center" src="https://www.freeiconspng.com/uploads/site-internet-icon-png-31.png" width="40"  alt="My Portfolio" /></a> &nbsp;
 <a target="_blank" href="https://codepen.io/alimadhibujar"><img align="center" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt=""  width="35" title="Codepen"/></a>
@@ -26,9 +26,9 @@
 
 <!-- tol to show visitors in github -->
 <h3 align="left">Visitors &nbsp; :</h3>    
-    
+
 ![Visitor Count](https://profile-counter.glitch.me/{alimadhibujar}/count.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimadhibujar&show_icons=true&theme=gotham&count_private=true)
+
 
 
 
@@ -36,6 +36,8 @@
     
   <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimadhibujar&show_icons=true&theme=gotham&count_private=true)
 
 
 Here are some ideas to get you started:
