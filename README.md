@@ -1,6 +1,6 @@
 <!-- tol to wrighte welcome svg message -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&width=450&height=30&lines=Hello+there%2C+I'm+Bujar+Alimadhi+!;An+Frontend+Web+Developer+!;Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/alimadhibujar/alimadhibujar/blob/master/devcard.svg" width="400" alt="Bujar Alimadhi's Dev Card"/></a>
+<a href="https://app.daily.dev/alimadhiBujar"><img src="https://github.com/alimadhibujar/alimadhibujar/blob/master/devcard.svg" width="400" alt="Bujar Alimadhi's Dev Card"/></a>
 
 
 
