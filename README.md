@@ -1,20 +1,23 @@
 <!-- tol to wrighte welcome svg message -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&width=450&height=30&lines=Hello+there%2C+I'm+Bujar+Alimadhi+!;An+Frontend+Web+Developer+!;Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
-<div ><img src="https://github.com/alimadhibujar/Link-Academy-responsiv-/blob/master/img/bgvideo.gif?raw=true" align="left"/></div>
+<p align="left" ><a  href="https://app.daily.dev/alimadhiBujar"><img src="https://api.daily.dev/devcards/4cc9e7eccfb24e72ac5e8f4c24082ab7.png?r=noq" width="300" alt="Bujar Alimadhi's Dev Card"/></a>
+</p>
+
 
 <!-- list of social links -->
 
-<h3 align="left">Connect with me &nbsp; :</h3>
-<div align="left">
+<h3 align="right">Connect with me &nbsp; :</h3>
+<div align="right">
 <a target="_blank" href="https://www.linkedin.com/in/bujar-alimadhi/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt=""  width="40" title="Linkedin"/></a> &nbsp;
 <a target="_blank" href="https://alimadhibujar.github.io/Projekt-Portofolio/" title="My Portfolio"><img align="center" src="https://www.freeiconspng.com/uploads/site-internet-icon-png-31.png" width="40"  alt="My Portfolio" /></a> &nbsp;
 <a target="_blank" href="https://codepen.io/alimadhibujar"><img align="center" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt=""  width="35" title="Codepen"/></a>
 </div>
 
+
 <!-- skills -->
 
-<h3 align="left">Languages and Tools &nbsp; :</h3>
-<p align="left">
+<h3 align="right">Languages and Tools &nbsp; :</h3>
+<p align="right">
 <a target="_blank" href="https://www.w3schools.com/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50"/> </a> &nbsp;
 <a target="_blank" href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50"/></a> &nbsp;
 <a target="_blank" href="https://sass-lang.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;
@@ -47,4 +50,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ <div ><img src="https://github.com/alimadhibujar/Link-Academy-responsiv-/blob/master/img/bgvideo.gif?raw=true" align="left"/></div> -->
+
