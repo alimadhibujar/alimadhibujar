@@ -28,7 +28,7 @@
 					</tbody>
 				</table>
 			</td>
-			<td style="width: 401px;">&nbsp;<a href="https://app.daily.dev/alimadhiBujar"><img src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="300" /></a></td>
+			<td style="width: 301px;">&nbsp;<a href="https://app.daily.dev/alimadhiBujar"><img src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="300" /></a></td>
 		</tr>
 	</tbody>
 </table>
