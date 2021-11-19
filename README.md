@@ -20,13 +20,13 @@
 						<tr style="height: 135px; border-color: #284d8f;">
 							<td style="width:  100%;">
 								<p>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" /> </a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" /></a> &nbsp; <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> &nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> &nbsp; <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png" alt="Git" width="60" height="50" /></a> &nbsp; <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="36px" /> </a></p>
-							</td>
-						</tr>
-						<tr style="height: 85px; border-color: #284d8f;">
-							<td style="width:  100%;">&nbsp;<span style="font-size: 32px; color: #284d8f;">&nbsp;&nbsp;&nbsp;Visitors &nbsp; :</span>&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/{alimadhibujar}/count.svg" alt="Visitor Count" /></td>
-						</tr>
-					</tbody>
-				</table>
+	</td>
+</tr>
+<tr style="height: 85px; border-color: #284d8f;">
+	<td style="width:  100%;">&nbsp;<span style="font-size: 32px; color: #284d8f;">&nbsp;&nbsp;&nbsp;Visitors &nbsp; :</span>&nbsp;&nbsp;&nbsp;<img  src="https://profile-counter.glitch.me/{alimadhibujar}/count.svg" alt="Visitor Count" /></td>
+</tr>
+	</tbody>
+		</table>
 			</td>
 			<td style="width: 301px;">&nbsp;<a href="https://app.daily.dev/alimadhiBujar"><img src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="300" /></a></td>
 		</tr>
