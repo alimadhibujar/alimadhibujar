@@ -1,16 +1,16 @@
 <table align="left" style="width:  300px; background-color: #0d1117; border-color: #284d8f; "  >
 	<tbody>
-		<tr style="border-color: #284d8f; background-color: #0d1117;">
+		<tr style="border-color: #284d8f; background-color: #0d1117; ">
 			<td style="width: 100%; height: 50px;">&nbsp;
 				<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&amp;vCenter=true&amp;width=450&amp;height=30&amp;lines=Hello+there%2C+I'm+Bujar+Alimadhi+!;An+Frontend+Web+Developer+!;Welcome+to+my+GitHub+profile+!" alt="Typing SVG" /></a></p>
 							</td>
 						</tr>
 						<tr style="height: 155px; border-color: #284d8f;">
-							<td style="width:  100%;"><span style="font-size: 32px; color: #284d8f;">&nbsp;&nbsp;&nbsp;&nbsp;Connect with me &nbsp; :</span>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/bujar-alimadhi/" target="_blank"><img title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="" width="40" align="center" /></a> &nbsp; <a title="My Portfolio" href="https://alimadhibujar.github.io/Portfolio/" target="_blank"><img src="https://www.freeiconspng.com/uploads/site-internet-icon-png-31.png" alt="My Portfolio" width="40" align="center" /></a> &nbsp; <a href="https://codepen.io/alimadhibujar" target="_blank"><img title="Codepen" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="" width="35" align="center" /></a></td>
+							<td style="width:  100%;"><span style="font-size: 40px; color: #284d8f;">&nbsp;&nbsp;&nbsp;&nbsp;Connect with me &nbsp; :</span>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/bujar-alimadhi/" target="_blank"><img title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="" width="40" align="center" /></a> &nbsp; <a title="My Portfolio" href="https://alimadhibujar.github.io/Portfolio/" target="_blank"><img src="https://www.freeiconspng.com/uploads/site-internet-icon-png-31.png" alt="My Portfolio" width="40" align="center" /></a> &nbsp; <a href="https://codepen.io/alimadhibujar" target="_blank"><img title="Codepen" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="" width="35" align="center" /></a></td>
 						</tr>
-						<tr style="height: 125px; border-color: #284d8f;">
+						<tr style="height: 225px; border-color: #284d8f;">
 							<td style="width:  100%;">&nbsp;
-								<p style="font-size: 32px; color: #284d8f;">&nbsp;&nbsp;&nbsp;&nbsp;Languages and Tools &nbsp; :</p>
+								<p style="font-size: 40px; color: #284d8f;">&nbsp;&nbsp;&nbsp;&nbsp;Languages and Tools &nbsp; :</p>
 							</td>
 						</tr>
 						<tr style="height: 165px; border-color: #284d8f;">
@@ -19,7 +19,7 @@
 	</td>
 </tr>
 <tr style="height: 145px; border-color: #284d8f;">
-	<td style="width:  100%;">&nbsp;<span style="font-size: 32px; color: #284d8f;">&nbsp;&nbsp;&nbsp;Visitors &nbsp; :</span>&nbsp;&nbsp;&nbsp;<img  src="https://profile-counter.glitch.me/{alimadhibujar}/count.svg" alt="Visitor Count" /></td>
+	<td style="width:  100%;">&nbsp;<span style="font-size: 40px; color: #284d8f;">&nbsp;&nbsp;&nbsp;Visitors &nbsp; :</span>&nbsp;&nbsp;&nbsp;<img  src="https://profile-counter.glitch.me/{alimadhibujar}/count.svg" alt="Visitor Count" /></td>
 </tr>
 	</tbody>
 </table>
