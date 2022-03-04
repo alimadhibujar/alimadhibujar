@@ -26,6 +26,7 @@
 <a href="https://app.daily.dev/alimadhiBujar"><img align="center" src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="300" /></a>
 <br/>
 <!-- BOOKMARKS-LIST:START -->
+
 <!-- BOOKMARKS-LIST:END -->
 
 <!--
