@@ -27,11 +27,11 @@
 <p>daily.dev Bookmarks :<p/> 
 <br/>
 <!-- daily.dev BOOKMARKS:START -->
+- [6 APIs Frontend Developers Should Know](https://app.daily.dev/posts/f2mMNZtEV?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Top 10 Chrome Extensions for Developers](https://app.daily.dev/posts/UpTr0ZKZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [19 GitHub Repositories to Make you a 10x Developer](https://app.daily.dev/posts/U_30re3U2?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [10 React Interview Questions You Should Know in 2022](https://app.daily.dev/posts/9KPejEmT0?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [35 Website Cheat Sheets For Developers](https://app.daily.dev/posts/WI9P1cdbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [17 Killer Web Apps You Should Use to Increase Productivity 🚀💯](https://app.daily.dev/posts/j33ACqW2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
