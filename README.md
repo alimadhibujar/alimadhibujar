@@ -23,8 +23,8 @@
 </tr>
 	</tbody>
 </table>
-<a href="https://app.daily.dev/alimadhiBujar"><img align="center" src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="300" /></a>
-<p>daily.dev Bookmarks :<p/> 
+<a href="https://app.daily.dev/alimadhiBujar"><img align="center" src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="270" /></a>
+<p align="left">daily.dev Bookmarks :<p/> 
 <!-- daily.dev BOOKMARKS:START -->
 <ul>
 <li><a href="https://app.daily.dev/posts/f2mMNZtEV?utm_source=rss&amp;utm_medium=bookmarks&amp;utm_campaign=rdslac64jY47GWr1ifrFm">6 APIs Frontend Developers Should Know</a></li>
