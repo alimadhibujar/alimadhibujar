@@ -1,3 +1,5 @@
+<!-- BOOKMARKS-LIST:START -->
+<!-- BOOKMARKS-LIST:END -->
 <table align="left" style="width:  300px; background-color: #0d1117; border-color: #284d8f; "  >
 	<tbody>
 		<tr style="border-color: #284d8f; background-color: #0d1117; ">
@@ -25,9 +27,7 @@
 </table>
 <a href="https://app.daily.dev/alimadhiBujar"><img align="center" src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="300" /></a>
 <br/>
-<!-- BOOKMARKS-LIST:START -->
 
-<!-- BOOKMARKS-LIST:END -->
 
 <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
