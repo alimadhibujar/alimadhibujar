@@ -25,8 +25,7 @@
 </table>
 <a href="https://app.daily.dev/alimadhiBujar"><img align="center" src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="300" /></a><br/>
 <p>daily.dev Bookmarks :<p/> 
-<!-- BOOKMARKS:START --><!-- BOOKMARKS:END -->
-
+<!--  daily.dev BOOKMARKS:START --><!--  daily.dev BOOKMARKS:END -->
 
 <!--
 **alimadhibujar/alimadhibujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
