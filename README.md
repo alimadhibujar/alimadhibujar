@@ -23,7 +23,7 @@
 </tr>
 	</tbody>
 </table>
-<a href="https://app.daily.dev/alimadhiBujar"><img align="center" src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="280" /></a>
+<a href="https://app.daily.dev/alimadhiBujar"><img align="center" src="https://raw.githubusercontent.com/alimadhibujar/alimadhibujar/main/devcard.svg" alt="Bujar Alimadhi's Dev Card" width="275" /></a>
 <br/><br/>
 <p align="left">daily.dev Bookmarks :<p/> 
 
