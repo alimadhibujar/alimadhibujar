@@ -30,11 +30,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [6 Creative Ideas for CSS Link Hover Effects | CSS-Tricks](https://app.daily.dev/posts/bunhv3U9R?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Modern API data-fetching methods in React](https://app.daily.dev/posts/ldwmVZ9Me?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [6 APIs Frontend Developers Should Know](https://app.daily.dev/posts/f2mMNZtEV?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Top 10 Chrome Extensions for Developers](https://app.daily.dev/posts/UpTr0ZKZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [19 GitHub Repositories to Make you a 10x Developer](https://app.daily.dev/posts/U_30re3U2?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [10 React Interview Questions You Should Know in 2022](https://app.daily.dev/posts/9KPejEmT0?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
