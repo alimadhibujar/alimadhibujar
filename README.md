@@ -30,11 +30,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [12 Awesome Shape Generators for Your Web Projects 😍🚀](https://app.daily.dev/posts/TKDMxT2qm?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [How to Create a Pull Request in GitHub *Correctly*](https://app.daily.dev/posts/0J0hyfi6v?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [6 Creative Ideas for CSS Link Hover Effects | CSS-Tricks](https://app.daily.dev/posts/bunhv3U9R?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Modern API data-fetching methods in React](https://app.daily.dev/posts/ldwmVZ9Me?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [6 APIs Frontend Developers Should Know](https://app.daily.dev/posts/f2mMNZtEV?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [Top 10 Chrome Extensions for Developers](https://app.daily.dev/posts/UpTr0ZKZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
