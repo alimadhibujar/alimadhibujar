@@ -30,11 +30,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [13 Libraries You Should Know as a React Developer](https://app.daily.dev/posts/3miP5wDc1?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [18 GitHub Repositories to Become a CSS Master 🎨🧙‍♂️](https://app.daily.dev/posts/R_IxiOTLE?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [5 new services developers NEED TO KNOW!](https://app.daily.dev/posts/mlODhMmbr?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [8 Best Cheatsheets For React Developers](https://app.daily.dev/posts/M-B8Qfa5l?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [12 Awesome Shape Generators for Your Web Projects 😍🚀](https://app.daily.dev/posts/TKDMxT2qm?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [How to Create a Pull Request in GitHub *Correctly*](https://app.daily.dev/posts/0J0hyfi6v?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
