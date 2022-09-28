@@ -31,11 +31,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Difference between TypeScript Interfaces and Types](https://app.daily.dev/posts/1d0_JFUz1?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [The Ultimate List of CSS Code Generators For Web Development](https://app.daily.dev/posts/ry5VT7vZi?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Fantastic CSS border animation](https://app.daily.dev/posts/SqThqwKmJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [13 Libraries You Should Know as a React Developer](https://app.daily.dev/posts/3miP5wDc1?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [18 GitHub Repositories to Become a CSS Master 🎨🧙‍♂️](https://app.daily.dev/posts/R_IxiOTLE?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [5 new services developers NEED TO KNOW!](https://app.daily.dev/posts/mlODhMmbr?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
