@@ -31,11 +31,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [20 Git Commands That Will Make You a Version Control Pro.](https://app.daily.dev/posts/AbjGV2NAu?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [How to Use the Git Stash Command](https://app.daily.dev/posts/f-nS_VgyV?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Super Useful CSS Resources 🌈](https://app.daily.dev/posts/_2BztdGT6?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [A Deep Dive Into CSS Grid minmax&lpar;&rpar;](https://app.daily.dev/posts/UTrsAKYtQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [The Difference between TypeScript Interfaces and Types](https://app.daily.dev/posts/1d0_JFUz1?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [The Ultimate List of CSS Code Generators For Web Development](https://app.daily.dev/posts/ry5VT7vZi?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
