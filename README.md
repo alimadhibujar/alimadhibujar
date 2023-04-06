@@ -31,11 +31,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Update Node and NPM to the Latest Version](https://app.daily.dev/posts/e_WLl_v1n?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [10 common JavaScript errors and how to avoid them](https://app.daily.dev/posts/vsD0IxVB7?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [React Hooks for infinite scroll: An advanced tutorial](https://app.daily.dev/posts/1RUwcIXNO?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [CSS Tips For Better Web Development](https://app.daily.dev/posts/tbmeGdU5S?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [4 React Tips to Instantly Improve Your Code](https://app.daily.dev/posts/PK0Abn9az?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [20 Git Commands That Will Make You a Version Control Pro.](https://app.daily.dev/posts/AbjGV2NAu?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
