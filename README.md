@@ -31,11 +31,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Set up CodeGPT in Visual Studio Code](https://app.daily.dev/posts/qc8RVYCeT?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [10 Advanced Git Commands](https://app.daily.dev/posts/P4kYAdMLy?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [50+ ChatGPT Prompts for Web Developers](https://app.daily.dev/posts/px9aBA8cC?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Deploy your React app using GitHub pages](https://app.daily.dev/posts/mpeNWNfIm?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [5 useful JSON tools to improve your productivity](https://app.daily.dev/posts/9uHd5zaw6?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [How to Update Node and NPM to the Latest Version](https://app.daily.dev/posts/e_WLl_v1n?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
