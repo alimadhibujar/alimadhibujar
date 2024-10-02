@@ -31,11 +31,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [30+ app ideas with complete source code](https://app.daily.dev/posts/qdWRHaJeR?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [ChatGPT - Prompts for developers](https://app.daily.dev/posts/FK1UIbccV?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Meet CodeGPT: A New Code Generation Tool Making Waves in the AI Community](https://app.daily.dev/posts/XTxp8DpCh?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [Set up CodeGPT in Visual Studio Code](https://app.daily.dev/posts/qc8RVYCeT?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 - [10 Advanced Git Commands](https://app.daily.dev/posts/P4kYAdMLy?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [50+ ChatGPT Prompts for Web Developers](https://app.daily.dev/posts/px9aBA8cC?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
