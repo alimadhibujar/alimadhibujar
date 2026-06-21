@@ -31,11 +31,11 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/Z7ZvL5iA7?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [No title](https://app.daily.dev/posts/OfuqiT7h9?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [200+ Tailwind CSS Resources: Tools, Tutorials, and More](https://app.daily.dev/posts/yOQCyRmJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [30+ app ideas with complete source code](https://app.daily.dev/posts/qdWRHaJeR?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
-- [ChatGPT - Prompts for developers](https://app.daily.dev/posts/FK1UIbccV?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
+- [No title](https://daily.dev/posts/Z7ZvL5iA7?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
+- [No title](https://daily.dev/posts/OfuqiT7h9?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
+- [200+ Tailwind CSS Resources: Tools, Tutorials, and More](https://daily.dev/posts/yOQCyRmJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
+- [30+ app ideas with complete source code](https://daily.dev/posts/qdWRHaJeR?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
+- [ChatGPT - Prompts for developers](https://daily.dev/posts/FK1UIbccV?utm_source=rss&utm_medium=bookmarks&utm_campaign=rdslac64jY47GWr1ifrFm)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
